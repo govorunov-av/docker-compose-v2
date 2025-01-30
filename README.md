@@ -33,7 +33,7 @@ Docker Compose version v2.28.1
 
 
 
-# Update Docekr 
+# Update Docker 
 
 Добавление репозитория docekr и его обновление
 
